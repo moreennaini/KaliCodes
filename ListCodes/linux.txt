@@ -1,1 +1,2 @@
-pwd
+pwd - print working directory
+rm - removes a file
